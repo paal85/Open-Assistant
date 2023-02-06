@@ -1,0 +1,20 @@
+{
+  "copy_message_id": "Kopier melding id",
+  "label_action": "Label",
+  "label_title": "Label",
+  "message_deleted": "Melding slettet",
+  "message": "Melding",
+  "open_new_tab_action": "Åpne i ny fane",
+  "parent": "Overordnet",
+  "reactions": "Reaksjoner",
+  "recent_messages": "Nylige meldinger",
+  "report_action": "Rapporter",
+  "report_placeholder": "Hvorfor skal denne meldingen rapporteres?",
+  "report_title": "Rapporter",
+  "send_report": "Send",
+  "stop_tree": "Stopp samtaletråd",
+  "submit_labels": "Send inn",
+  "tree_stopped": "Stoppet samtaletråd {{id}}",
+  "view_user": "Vis bruker",
+  "your_recent_messages": "Dine nylige meldinger"
+}

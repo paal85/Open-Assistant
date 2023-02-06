@@ -1,0 +1,82 @@
+{
+  "default": {
+    "unchanged_title": "Ingen endringer",
+    "unchanged_message": "Er du sikker på at du vil fortsette?"
+  },
+  "random": {
+    "label": "Jeg føler meg heldig",
+    "desc": "Hjelp oss å forbedre Open Assistant ved å opprette en ny oppgave."
+  },
+  "create_initial_prompt": {
+    "label": "Opprett første prompt",
+    "desc": "Skriv første melding for å hjelpe Open Assistant å kunne svare på et bredt spekter av forespørsler. (Få en sjanse til å Vinne priser)",
+    "overview": "Skriv første melding som skal besvares av AI assistenten",
+    "instruction": "Oppgi første prompter",
+    "response_placeholder": "Skriv dine prompter her..."
+  },
+  "reply_as_user": {
+    "label": "Svar som en bruker",
+    "desc": "Konverser med Open Assistant og hjelp med å forbedre dens svar mens du kommuniserer med den.",
+    "overview": "Gitt den følgende konversasjonen, gi et passende svar",
+    "instruction": "Oppgi brukerens svar",
+    "response_placeholder": "Skriv ditt svar her..."
+  },
+  "reply_as_assistant": {
+    "label": "Svar som en assistent",
+    "desc": "Hjelp Open Assistant med å forbedre sine svar, ved å svare som den for andre brukeres forespørsler.",
+    "overview": "Gitt den følgende konversasjonen, gi et passende svar",
+    "response_placeholder": "Skriv ditt svar her..."
+  },
+  "rank_user_replies": {
+    "label": "Ranger bruker svar",
+    "desc": "Hjelp Open Assistant med å forbedre sine svar for andre brukeres forespørsler.",
+    "overview": "Gitt de følgende brukernes svar, ranger de fra best til verst, hvor beste svar er øverst og verste er nederst.",
+    "unchanged_title": "Rekkefølge er uendret",
+    "unchanged_message": "Du gjorde ingen endringer på rekkefølge, er du sikker på at nåværende rangering er korrekt?"
+  },
+  "rank_assistant_replies": {
+    "label": "Ranger assistent svar",
+    "desc": "Ranger Open Assistant svar basert på svarets nøyaktighet og lesbarhet.",
+    "overview": "Gitt de følgende assistent svar, ranger de fra best til verst, hvor beste svar er øverst og verste er nederst.",
+    "unchanged_title": "Rekkefølge er uendret",
+    "unchanged_message": "Du gjorde ingen endringer på rekkefølge, er du sikker på at nåværende rangering er korrekt?"
+  },
+  "rank_initial_prompts": {
+    "label": "Ranger første prompt",
+    "desc": "Ranger første prompter basert på meldingens nøyaktighet og lesbarhet.",
+    "overview": "Gitt de følgende første prompter, ranger de fra best til verst, hvor beste svar er øverst og verste er nederst.",
+    "unchanged_title": "Rekkefølge er uendret",
+    "unchanged_message": "Du gjorde ingen endringer på rekkefølge, er du sikker på at nåværende rangering er korrekt?"
+  },
+  "label_initial_prompt": {
+    "label": "Label Første Prompt",
+    "desc": "Oppgi label for prompt.",
+    "overview": "Oppgi label for påfølgende prompt"
+  },
+  "label_prompter_reply": {
+    "label": "Label Prompter Svar",
+    "desc": "Oppgi label-er for prompt.",
+    "overview": "Gitt den følgende diskusjonen, oppgi label-er for den endelige prompt-en."
+  },
+  "label_assistant_reply": {
+    "label": "Label Assistent Svar",
+    "desc": "Oppgi label-er for prompt.",
+    "overview": "Gitt den følgende diskusjonen, oppgi label-er for den endelige prompt-en."
+  },
+  "classify_initial_prompt": {
+    "label": "Klassifiser Første Prompt",
+    "desc": "Oppgi label-er for prompt.",
+    "overview": "Les den følgende prompt-en og svar på spørsmålet om det."
+  },
+  "classify_prompter_reply": {
+    "label": "Klassifiser Prompt-er Svar",
+    "desc": "Oppgi label-er for prompt.",
+    "overview": "Les den følgende diskusjonen og svar på spørsmålet om det siste svaret i samtalen."
+  },
+  "classify_assistant_reply": {
+    "label": "Klassifiser Assistent Svar",
+    "desc": "Oppgi label-er for prompt.",
+    "overview": "Les den følgende diskusjonen og svar på spørsmålet om det siste svaret i samtalen."
+  },
+  "available_task_count": "{{count}} oppgaver er tilgjengelig"
+}

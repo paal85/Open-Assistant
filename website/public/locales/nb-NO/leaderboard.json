@@ -1,0 +1,18 @@
+{
+  "daily": "Daglig",
+  "last_updated_at": "Sist oppdatert: {{val, datetime}}",
+  "leaderboard": "Toppliste",
+  "monthly": "Månedlig",
+  "overall": "All tid",
+  "rank": "Rang",
+  "score": "Poeng",
+  "user": "Bruker",
+  "weekly": "Ukentlig",
+  "prompt": "Prompter",
+  "reply": "Svar",
+  "label": "Labeler",
+  "view_all": "Vis alle",
+  "top_5_contributors_today": "Topp 5 bidragsytere i dag",
+  "previous": "Forrige",
+  "next": "Neste"
+}

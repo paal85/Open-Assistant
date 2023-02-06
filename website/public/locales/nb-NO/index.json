@@ -1,0 +1,15 @@
+{
+  "blurb": "Vi tror vi kan skape en ny revolusjon.",
+  "blurb1": "På samme måte som Stable Diffusion hjulpet verden med å lage kunst og andre bilder på nye måter, vil vi forbedre verden med å tilby en revulsjonerende Samtale Kustig intelegens. På samme måte som Stable Diffusion hjulpet verden med å lage kunst og andre bilder på nye måter, vil vi også forbedre verden ved å tilby en ny revolusjonerende samtale basert kunstig intelligens.",
+  "description": "En Samtale-AI for alle. Et åpen kildekode prosjekt for å skape en Samtale AI basert på GPT LLM, laget av LAION og andre støttespillere over hele verden.",
+  "faq_items": {
+    "q0": "Hvor langt har vi kommet med posjektet?",
+    "a0": "Vi er fortsatt på et tidlig stadie. Vi arbeider fra allerede etablert forskning med å utføre RLHF på store språk modeller.",
+    "q1": "Hvem er bak Open Assistant?",
+    "a1": "Open Assistant er et prosjekt organisert av LAION og har bidragsyterer fra over hele verden som er interessert i å bringe denne teknologien til alle."
+  },
+  "faq_title": "Spørsmål og Svar (FAQ)",
+  "join_us_description": "Alle åpen kildekode prosjekt starter med personer som deg. Åpen kildekode er et sett med verdier som sier at hvis vi samarbeider så kan vi bringe kunnskap og teknologi til hele verden for å kunne bedre hele menneskeheten. Blir du med? Start her:",
+  "join_us_title": "Bli med oss",
+  "subtitle": "En Samtale-AI for alle."
+}
